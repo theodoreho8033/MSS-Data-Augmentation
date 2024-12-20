@@ -9,4 +9,4 @@ on the MUSDB-18 dataset which only has 150 tracks. We aim to explore data
 generation and augmentation techniques to create a larger training dataset and
 investigate the preformance impact on existing models.
 
-This repo currently has the project proposal. This is a project I'm currently working on and as we progress I will add more to this repo. 
+See MSS-FinalReport.pdf for the report.
